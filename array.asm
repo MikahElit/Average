@@ -1,12 +1,4 @@
-REM
-REM UIC 2.0 program to fill an array with 225 numbers.  If
-REM all is well, you'll see a 15x15 grid of numbers on the
-REM screen.
-REM
-REM Author: Prof. Hummel, U. of Illinois Chicago, Fall 2020
-REM
-REM NOTE: assumes a config file where memory size >= 1000.
-REM
+
 
 REM
 REM let's test and make sure clear works, and that we can
