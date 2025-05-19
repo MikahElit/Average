@@ -1,10 +1,3 @@
-REM
-REM UIC 2.0 program to input N integers and output the average.
-REM
-REM Author: Prof. Hummel, U. of Illinois Chicago, Fall 2020
-REM
-REM Version: 2.0 (fixed earlier infinite loop)
-REM
 
 out_s	"# of integers? "
 in_i
