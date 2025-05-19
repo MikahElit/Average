@@ -1,16 +1,4 @@
-//
-// Parsing function that reads a UIC 1.0 language file and
-// returns the contents (instructions and operands) one by
-// one.
-//
-// Author: Prof. Hummel, U. of Illinois Chicago, Fall 2020
-//
-// Version 2.0: fixed checking for EOF, and REM @ end of line.
-//
-// NOTE: do not modify this code, the grading script will
-// be using the original version of this function and ignore
-// any changes that you make.
-//
+
 
 #include <iostream>
 #include <fstream>
