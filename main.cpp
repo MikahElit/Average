@@ -1,12 +1,4 @@
-//
-// Simulator for UIC 1.0, a very simple computer language.
-// UIC 1.0 has 10 memory locations, an accumulator, and only
-// supports integers, basic I/O, and arithmetic operations.
-//
-// Initial version written by
-//   Prof. Hummel, U. of Illinois Chicago, Fall 2020
-//   Project 01: solution
-//
+
 
 #include <iostream>
 #include <fstream>
