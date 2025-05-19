@@ -1,8 +1,4 @@
-REM
-REM UIC 2.0 program to output the numbers 1..20 using a loop.
-REM
-REM Author: Prof. Hummel, U. of Illinois Chicago, Fall 2020
-REM
+
 
 load_i	 1     REM i = 1
 store_i	 M0
