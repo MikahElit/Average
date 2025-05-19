@@ -1,8 +1,4 @@
-REM
-REM UIC 1.0 program to input 2 integers and output the average.
-REM
-REM Author: Prof. Hummel, U. of Illinois Chicago, Fall 2020
-REM
+
 
 out_s 	"Please enter first integer: "
 in_i
