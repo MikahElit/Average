@@ -1,9 +1,4 @@
-REM
-REM UIC 1.0 program to compute exercise target heart rates
-REM based on CDC recommendations
-REM
-REM Author: Prof. Hummel, U. of Illinois Chicago, Fall 2020
-REM
+
 
 out_s 	"Enter your age: "
 in_i
